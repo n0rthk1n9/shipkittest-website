@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>ShipKitTest</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 29 Oct 2026 20:28:31 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://n0rthk1n9.github.io/shipkittest-website/downloads/ShipKitTest.md</sparkle:releaseNotesLink>
+            <enclosure url="https://n0rthk1n9.github.io/shipkittest-website/downloads/ShipKitTest.dmg" length="2710333" type="application/octet-stream" sparkle:edSignature="vLyIkTMt6DCx7kGgjXRYKcjjIbaRW0WnXtXTSZ6sLPsDS2C/sgtbL3N0yHRl9NBGO9JzyJqrQSdl3oPiNxg7DQ=="/>
+        </item>
+    </channel>
+</rss>
